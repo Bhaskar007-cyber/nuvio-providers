@@ -1,10 +1,10 @@
 [
   {
     "id": "template-provider",
-    "name": "Template Provider",
+    "name": "Bhaskar Premium Repo",
     "description": "A starter template for creating Nuvio providers.",
-    "version": "1.0.0",
-    "author": "Your Name",
+    "version": "3.0.0",
+    "author": "Bhaskar007",
     "supportedTypes": [
       "movie",
       "tv"
